@@ -2,6 +2,9 @@
 
 ![Design preview for the portfolio](./organo.jpg)
 
+## Detalhes
+Esse projeto foi feito em React e é um organograma de empresa onde você pode criar os funcionários que fazem parte de cada equipe da empresa, colocar sua devida foto, nome e função e cor do grupo e um botão de "like" para marcar o funcionário que quiser, além de poder criar e adicionar novas funções e cores para cada grupo.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
